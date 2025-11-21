@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/loofah-programming-website/static/css/main.0c4a774b.css",
+    "main.js": "/loofah-programming-website/static/js/main.a30f96c1.js",
+    "static/js/453.6f24f342.chunk.js": "/loofah-programming-website/static/js/453.6f24f342.chunk.js",
+    "index.html": "/loofah-programming-website/index.html",
+    "main.0c4a774b.css.map": "/loofah-programming-website/static/css/main.0c4a774b.css.map",
+    "main.a30f96c1.js.map": "/loofah-programming-website/static/js/main.a30f96c1.js.map",
+    "453.6f24f342.chunk.js.map": "/loofah-programming-website/static/js/453.6f24f342.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c4a774b.css",
+    "static/js/main.a30f96c1.js"
+  ]
+}
